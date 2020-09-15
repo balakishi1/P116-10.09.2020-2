@@ -1,0 +1,4 @@
+int i=1;
+int r=3;
+int f=i+r;
+
